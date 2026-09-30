@@ -15,13 +15,7 @@
 
 ---
 
-I build web applications and games, and I'm finishing my degree in **MONTH YEAR**.
-I'm looking for a graduate software engineering role where I can work on real
-systems and grow into a strong backend and cloud engineer.
-
-Most of what I enjoy sits at the point where a clean interface meets something
-harder underneath — like getting a Unity game to talk to a web backend, or
-designing input for users who can't type yet.
+I build web applications and games, and I'm finishing my degree in **2027**.
 
 ### 🛠 Tech
 
@@ -48,14 +42,6 @@ to answer questions and pull a rope to their side. I build the Unity front end
 and the WebGL bridge to the web layer: the gameplay loop, a touch-first numeric
 keypad built for kids who can't type, and a game-mode abstraction that lets the
 client run locally or hand authority to a server.
-
-**🏛️ CivicConnect**  
-ONE SENTENCE ON WHAT IT DOES AND WHAT YOU BUILT.
-
-### 📚 Currently learning
-
-- Data structures and algorithms — recursion, arrays, complexity analysis
-- Cloud fundamentals (AWS)
 
 ### 📫 Reach me
 
