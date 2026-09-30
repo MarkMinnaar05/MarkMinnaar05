@@ -45,4 +45,4 @@ client run locally or hand authority to a server.
 
 ### 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/mark-minnaar-aa7339429/) · YOUR@EMAIL.COM
+[LinkedIn](https://www.linkedin.com/in/mark-minnaar-aa7339429/) · Mark0Minnaar@gmail.com
